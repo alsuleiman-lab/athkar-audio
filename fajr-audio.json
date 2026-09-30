@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "adhan": [
+    {
+      "key": "abu-bakr",
+      "nameAr": "أبو بكر",
+      "nameEn": "Abu Bakr",
+      "url": "https://raw.githubusercontent.com/alsuleiman-lab/athkar-audio/main/fajr-adhan/abu-bakr.mp3",
+      "fajrUrl": "https://raw.githubusercontent.com/alsuleiman-lab/athkar-audio/main/fajr-adhan/fajr-abu-bakr.mp3"
+    },
+    {
+      "key": "fahd",
+      "nameAr": "فهد",
+      "nameEn": "Fahd",
+      "url": "https://raw.githubusercontent.com/alsuleiman-lab/athkar-audio/main/fajr-adhan/fahd.mp3"
+    },
+    {
+      "key": "mostafa",
+      "nameAr": "مصطفى",
+      "nameEn": "Mostafa",
+      "url": "https://raw.githubusercontent.com/alsuleiman-lab/athkar-audio/main/fajr-adhan/mostafa.mp3"
+    },
+    {
+      "key": "thabet",
+      "nameAr": "ثابت",
+      "nameEn": "Thabet",
+      "url": "https://raw.githubusercontent.com/alsuleiman-lab/athkar-audio/main/fajr-adhan/thabet.mp3"
+    },
+    {
+      "key": "yacob",
+      "nameAr": "يعقوب",
+      "nameEn": "Yacob",
+      "url": "https://raw.githubusercontent.com/alsuleiman-lab/athkar-audio/main/fajr-adhan/yacob.mp3"
+    }
+  ]
+}
