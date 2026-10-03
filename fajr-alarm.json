@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "fajrAlarm": {
+    "baseUrl": "https://raw.githubusercontent.com/alsuleiman-lab/athkar-audio/main/fajr-alarm",
+    "A": [
+      "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3",
+      "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3",
+      "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3",
+      "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3"
+    ],
+    "B": [
+      "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3", "mp3",
+      "wav", "wav", "wav", "wav", "wav", "wav", "wav"
+    ]
+  }
+}
